@@ -76,10 +76,10 @@ Efficiency Score: 77.85
 /**This project is for educational and demonstration purposes. You are free to adapt or expand it.**/
 
 /**Author**/
-Vivek Madan Shinde
+Vivek Madan Shinde,Kothapalem Satheesh
 Lovely Professional University
-Email: vivekshinde061@gmail.com
-Project Partner: Kothapalem Satheesh, Annamneedi Suresh Kumar, Raghav Kumar
+Email: vivekshinde061@gmail.com/satheeshyadav85@gmail.com
+Project Partner: Annamneedi Suresh Kumar, Raghav Kumar
 
 
 
